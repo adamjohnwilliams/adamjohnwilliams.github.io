@@ -1,5 +1,4 @@
 # adam john williams // art
-
 this is an online repository for the digital artworks of adam john williams
 
 ## balloons - 2016
@@ -7,4 +6,4 @@ this is an online repository for the digital artworks of adam john williams
 
 balloons // poetry, generative music, implanted electronics
 
-more information & download at https://adamjohnwilliams.github.io/art/balloons
+more information & download at [adamjohnwilliams.github.io/art/balloons](https://adamjohnwilliams.github.io/art/balloons)

@@ -3,7 +3,7 @@
 this is an online repository for the digital artworks of adam john williams
 
 ## balloons
-![hand of the artist - NFC chip can be seen between thumb & forefinger](https://adamjohnwilliams.github.io/art/adamjohnwilliams_balloons.jpg)
+<img src="https://adamjohnwilliams.github.io/art/adamjohnwilliams_balloons.jpg" width="800" alt text="hand of the artist - NFC chip can be seen between thumb & forefinger">
 
 balloons is an 888-byte digital artwork consisting of a poem about the experience of ego death whilst under the influence of nitrous oxide/"laughing gas"
 

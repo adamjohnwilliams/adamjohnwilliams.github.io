@@ -3,6 +3,8 @@
 this is an online repository for the digital artworks of adam john williams
 
 ## balloons
+![hand of the artist - NFC chip can be seen between thumb & forefinger](https://adamjohnwilliams.github.io/art/adamjohnwilliams_balloons.jpg)
+
 balloons is an 888-byte digital artwork consisting of a poem about the experience of ego death whilst under the influence of nitrous oxide/"laughing gas"
 
 the poem is followed by sonic pi code which produces generative music to accompany the poem, processed with effects to simulate the auditory hallucinations caused by the nitrous oxide
